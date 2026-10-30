@@ -201,3 +201,7 @@ Our focus includes structured data annotation, dataset preparation and quality v
 ---
 
 *Part of the Annomax AI data annotation portfolio.*
+
+---
+
+*Note: This is a sample dataset for demonstration purposes. Please verify the image usage rights and licensing before redistributing the images or using them commercially.*
