@@ -15,9 +15,7 @@ The project focuses on two primary NLP annotation tasks:
 
 In addition to annotation, the project includes a dashboard that summarizes sentiment distribution, intent categories and annotation quality metrics.
 
-## Dashboard Preview
 
-![Customer Feedback NLP Dashboard](screenshots/dashboard%20preview.png)
 
 ## Dataset Overview
 
@@ -76,9 +74,9 @@ The dashboard presents:
 - **Annotation Summary:** Overview of annotator contributions.
 - **QA Summary:** Approved records and overall QA approval rate.
 
-### Dashboard Preview
+## Dashboard Preview
 
-![Customer Feedback NLP Dashboard](screenshots/customer_feedback_dashboard.png)
+![Customer Feedback NLP Dashboard](screenshots/dashboard%20preview.png)
 
 *Dashboard screenshot showing sentiment distribution, category summaries, percentages and visual comparisons.*
 
